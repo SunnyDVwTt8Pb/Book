@@ -1,3 +1,0 @@
-src/* text eol=lf
-file1.txt text eol=crlf
-file2.txt text eol=crlf
